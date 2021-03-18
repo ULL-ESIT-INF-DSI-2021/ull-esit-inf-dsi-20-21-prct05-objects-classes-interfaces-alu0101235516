@@ -1,0 +1,9 @@
+{
+  "entryPoints": [
+    "./src/ejercicio-1.ts",
+    "./ejercicio-clase/electrodomestico.ts",
+    "./ejercicio-clase/televisor.ts",
+    "./ejercicio-clase/lavadora.ts"
+  ],
+  "out": "./docs"
+}
