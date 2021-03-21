@@ -1289,7 +1289,11 @@ describe(`EJ 3 - MEDIO TRANSPORTE`, () => {
 
 ### _**Test de todos los ejercicios.**_  
   
-  ![TEST](images/TESTS.PNG)
+  ![EJ1](images/EJ1.PNG)
+  
+  ![EJ2](images/EJ2.PNG)
+  
+  ![EJ3](images/EJ3.PNG)
 
 
 ### Conclusiones.
