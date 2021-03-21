@@ -2,7 +2,7 @@
  * Class Articulo cotienen los datos que componen un articulo.
  */
 
- export class Articulo {
+export class Articulo {
   /**
    * Constructor de la clase
    * @param titulo Titulo del articulo
