@@ -40,7 +40,7 @@ Como vamos a tener que realizar varias clases, las vamos a ir explicando poco a 
 
   **La clase Pokemon**
   
-```typescript
+```TypeScript
 export class Pokemon {
   private BasicData = {
     AT: 0,
