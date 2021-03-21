@@ -1286,3 +1286,46 @@ describe(`EJ 3 - MEDIO TRANSPORTE`, () => {
   });
 });
 ```
+
+### _**Test de todos los ejercicios.**_  
+  
+  ![TEST](images/TESTS.PNG)
+
+
+### Conclusiones.
+
+  Para concluir, creo que la práctica ha estado divertida, y ha sido productiva, me lo he pasado muy bien sobre todo haciendo el ejercicio de la pokedex, me ha parecido muy entretenido, y a la vez, muy práctico, creo que el uso de las clases a partir de ahora lo vamos a tener más presente y va a ser que nuestros códigos mejoren con el paso del tiempo. 
+
+
+### _**Bibliografía.**_
+
+Nombre | Enlaces
+-------|--------
+Introducción a Markdown | https://guides.github.com/features/mastering-markdown/
+Información sobre GitHub Pages | https://docs.github.com/en/github/working-with-github-pages
+Sitio web de Jekyll | https://jekyllrb.com/
+GutHub Learning Lab | https://lab.github.com/
+Curso de GitHub Pages | https://lab.github.com/githubtraining/github-pages
+Visual Studio Code | https://code.visualstudio.com/
+Instalar Visual Studio Code | https://code.visualstudio.com/docs/setup/setup-overview
+Tutorial VSCode sobre Additional Components | https://code.visualstudio.com/docs/setup/additional-components
+Tutorial VSCode sobre User Interface | https://code.visualstudio.com/docs/getstarted/userinterface
+Tutorial VSCode sobre Basic Editing | https://code.visualstudio.com/docs/editor/codebasics
+Tutorial VSCode sobre Extension MarketPlace | https://code.visualstudio.com/docs/editor/extension-gallery
+Tutorial VSCode sobre IntelliSense | https://code.visualstudio.com/docs/editor/intellisense
+Tutorial VSCode sobre Code Navigation | https://code.visualstudio.com/docs/editor/editingevolved
+Tutorial VSCode sobre Debugging | https://code.visualstudio.com/docs/editor/debugging
+Tutorial VSCode sobre Version Control | https://code.visualstudio.com/docs/editor/versioncontrol
+Tutorial VSCode sobre Working with GitHub | https://code.visualstudio.com/docs/editor/github
+Tutorial VSCode sobre Integrated Terminal | https://code.visualstudio.com/docs/editor/integrated-terminal
+Tutorial VSCode sobre Tasks | https://code.visualstudio.com/docs/editor/tasks
+Tutorial VSCode sobre Snippets | https://code.visualstudio.com/docs/editor/userdefinedsnippets
+Tutorial VSCode sobre Emmet | https://code.visualstudio.com/docs/editor/emmet
+Tutorial VSCode sobre Command Line | https://code.visualstudio.com/docs/editor/command-line
+Tutorial VSCode sobre  Multiroot Workspaces | https://code.visualstudio.com/docs/editor/multi-root-workspaces
+Tutorial VSCode sobre  Accessibility | https://code.visualstudio.com/docs/editor/accessibility
+Conectarnos desde VSCode a una máquina remota por SSH | https://code.visualstudio.com/docs/remote/ssh-tutorial
+Informe de la práctica 1 de DSI | https://ull-esit-inf-dsi-2021.github.io/ull-esit-inf-dsi-20-21-prct01-iaas-alu0101206479/
+Live Share Extension Pack | https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack
+Documentación de Visual Studio Live Share | https://docs.microsoft.com/en-us/visualstudio/liveshare/
+Libro Essential TypeScript: From Beginner to Pro | https://learning.oreilly.com/library/view/essential-typescript-from/9781484249796/html/Part_1.xhtml
