@@ -1,5 +1,6 @@
+/*
 import {assert} from "chai";
-
+*/
 /**
  * VENTA DE ELECTRODOMESTICOS - PE103
  * @param precio precio del electrodomestico
@@ -7,6 +8,7 @@ import {assert} from "chai";
  * @param color color del electrodomestico
  * @param consumo consumo del electrodomestico
  */
+/*
 export class Electrodomestico {
   constructor(protected precio: number = 150, protected peso: number, protected color: string, protected consumo: string) {
     this.precio = precio;
@@ -49,3 +51,4 @@ export class Electrodomestico {
     });
   }
 }
+*/
