@@ -1,3 +1,4 @@
+/*
 import {assert} from 'chai';
 import {Electrodomestico} from '../src/electrodomestico';
 
@@ -13,3 +14,4 @@ export class Lavadora extends Electrodomestico {
     return this.precio;
   }
 }
+*/

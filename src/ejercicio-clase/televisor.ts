@@ -1,5 +1,6 @@
+/*
 import {assert} from "chai";
-
+*/
 /**
  * VENTA DE ELECTRODOMESTICOS - PE103
  * @param precio precio del televisor
@@ -8,7 +9,7 @@ import {assert} from "chai";
  * @param consumo consumo del televisor
  * @param resolucion resolucion del televisor
  */
-
+/*
 import {Electrodomestico} from '../src/electrodomestico';
 
 export class Televisor extends Electrodomestico {
@@ -21,4 +22,4 @@ export class Televisor extends Electrodomestico {
     this.resolucion = resolucion;
   }
 }
-
+*/
